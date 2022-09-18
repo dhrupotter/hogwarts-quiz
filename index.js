@@ -28,75 +28,75 @@ function play(question, answer) {
 // array of questions
 
 var questions = [{
-  question: `1. Where do I live?
-  A. Manila Towers
-  B. Aanal Towers
-  C. Takshshila
-  D. Hogwarts`,
-  answer: "D"
-}, {
-  question: `2. What is my favourite house?
+  question: `1. What house at Hogwarts does Harry belong to?
   A. Slytherin
   B. Gryffindor
   C. Hufflepuff
   D. Ravenclaw`,
   answer: "B"
 }, {
-  question: `3. Which broomstick do I have?
-  A. The Firebolt
-  B. The Nimbus 2000
-  C. The Thunderbolt VII
-  D. The Shooting Star`,
-  answer: "B"
+  question: `2. What position does Harry play on his Quidditch team?
+  A.Seeker
+  B.Keeper
+  C.Bludger
+  D.Chaser`,
+  answer: "A"
 }, {
-  question: `4. What wand do I have?
-  A. Walnut and dragon heartstring wand
-  B. Willow wood wand with unicorn hair core
-  C. The Elder Wand
-  D. Yew wand with phoenix feather core`,
+  question: `3. Who gave Harry the scar on his forehead?
+  A.Voldemort
+  B.Hagrid
+  C.Hedwig
+  D.Lily`,
+  answer: "A"
+}, {
+  question: `4. What wand do Harry have ?
+  A.Walnut and dragon heartstring wand
+B.Willow wood wand with unicorn hair core
+C.The Elder Wand
+D.Yew wand with phoenix feather core`,
   answer: "C"
 }, {
-  question: `5. What is my favourite cafe?
-  A. Leaky Cauldron
-  B. Starbucks
-  C. McDonald's
-  D. The Three Broomsticks Inn`,
+  question: `5. What does the Imperius Curse do?
+  A. Kills
+B. Tortures
+C. Turns into Pig
+D. Controls`,
   answer: "D"
 }, {
-  question: `6. What do you thing I prefer more for vacations?
-  A. The Burrow
-  B. Switzerland
-  C. The Deathly Hallows
-  D. Spain`,
-  answer: "A"
+  question: `6. What is an Auror?
+  A.Professional Player
+  B. Wizard
+  C.Career Counselor
+D. Dark Wizard Catcher`,
+  answer: "D"
 }, {
-  question: `7. Who is my favourite proffessor?
-  A. Severus Snape
-  B. Albus Dumbledore
-  C. Rubeus Hagrid
-  D. Remus Lupin`,
+  question: `7. Who kills Professor Dumbledore? ?
+  A.Severus Snape
+B. Draco Malfoy
+C.Rubeus Hagrid
+D.Remus Lupin`,
   answer: "B"
 }, {
-  question: `8. What do you thinks scares me the most?
-  A. The Dark Lord
-  B. The Dementors
-  C. Prof. Snape
-  D. The Whomping Willow`,
+  question: `8. How does Harry catch his first snitch?
+  A. With his broom
+B. In his hat
+C. In his mouth
+D. With his feet`,
   answer: "C"
 }, {
-  question: `9. Who is my best friend?
-  A. Hermoine Granger
-  B. Ron Weasly
-  C. Harry Potter
-  D. Draco Malfoy`,
+  question: `9. Who is Harry's best friend ?
+  A.Hermoine Granger
+B.Ron Weasly
+C.Harry Potter
+D.Draco Malfoy`,
   answer: "A"
 }, {
-  question: `10. What is my favourite spell?
-  A. Expecto Patronum
-  B. Accio
-  C. Alohomora
-  D. Wingardium Leviosa`,
-  answer: "B"
+  question: `10. Who is Grawp?
+  A. Sirius House Elf
+B. A centaur
+C. Hagrid's half brother
+D. Ron's mouse`,
+  answer: "C"
 }]
 
 // loop
